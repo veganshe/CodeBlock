@@ -57,15 +57,15 @@ pre code {
 }
 
 strong, b{
-  color: #009688;
+  color: #BF360C;
 }
 
 em, i {
-  color: #F87A7A;
+  color: #009688;
 }
 
 hr {
-  border: 1px solid #009688;
+  border: 1px solid #BF360C;
   margin: 1.5em auto;
 }
 
@@ -114,7 +114,7 @@ dl dd {
 }
 
 blockquote, q {
-  border-left: 2px solid #F87A7A;
+  border-left: 2px solid #009688;
   padding: 0 10px;
   color: #777;
   quotes: none;
@@ -129,7 +129,8 @@ h1, h2, h3, h4, h5, h6 {
   margin: 20px 0 10px;
   padding: 0;
   font-style: bold !important;
-  color: #F87A7A !important;
+  color: #009688 !important;
+  text-align: center !important;
   margin: 1.5em 5px !important;
   padding: 0.5em 1em !important;
 }
@@ -191,6 +192,6 @@ table tr th, table tr td {
 table tr th {
   font-weight: bold;
   color: #eee;
-  border: 1px solid #F87A7A;
-  background-color: #F87A7A;
+  border: 1px solid #009688;
+  background-color: #009688;
 }
